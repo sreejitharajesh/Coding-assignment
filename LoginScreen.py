@@ -5,7 +5,7 @@ import sys
 
 
 configParser = configparser.RawConfigParser()   
-configFilePath = r'D:\Login_screen\Config.txt'
+configFilePath = r'D:\Coding-assignment-main\Config.txt'
 configParser.read(configFilePath)
 url_details = dict(configParser.items('URL'))
 cred_details = dict(configParser.items('Credentials'))
