@@ -9,4 +9,4 @@ Please find the steps to run the file LoginScreen.py
 Pre-requisites:
 1. Python should be installed in the machine.
 2. Playwright should be installed in the machine
-3. Download and extract the repository into the D: drive. 
+3. Download and extract the repository into the D: drive. (Or need to edit the ConfigFile path inside the code)
