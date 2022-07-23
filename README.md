@@ -7,4 +7,5 @@ Please find the steps to run the file LoginScreen.py
 3. Update the config file with preferred credentials.
 
 Pre-requisites:
-Python should be installed in the machine.
+1. Python should be installed in the machine.
+2. Playwright should be installed in the machine
