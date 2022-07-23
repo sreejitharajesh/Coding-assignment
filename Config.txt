@@ -1,0 +1,7 @@
+[URL]
+local = https://www.mytheresa.com/en-de/customer/account/
+jenkins = https://www.mytheresa.com/de_en/customer/account/
+
+[Credentials]
+Username= sreejitharajesh@maildrop.cc
+Password= Accel@123
